@@ -18,6 +18,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Machine Learning](#machine-learning)
+- [Python Packages](#python-packages)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
