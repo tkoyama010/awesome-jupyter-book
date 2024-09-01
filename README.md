@@ -16,8 +16,9 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Awesome Jupyter Book *](#awesome-jupyter-book-)
+**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
+
+- [Awesome Jupyter Book \*](#awesome-jupyter-book-)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
