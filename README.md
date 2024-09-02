@@ -17,10 +17,15 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Aultural Analytics](#aultural-analytics)
 - [Machine Learning](#machine-learning)
 - [Python Packages](#python-packages)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Aultural Analytics
+
+- [Introduction to Cultural Analytics & Python](https://github.com/melaniewalsh/Intro-Cultural-Analytics) - Introduction to Cultural Analytics & Python, course website and online textbook powered by Jupyter Book.
 
 ## Machine Learning
 
