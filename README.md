@@ -3,7 +3,7 @@
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/awesome-jupyter-book?color=ee8449)
 
 <p align="center">
-    <img src="https://jupyterbook.org/en/stable/_static/logo-wide.svg" alt="1280px-Mandel_zoom_00_mandelbrot_set" width="200"/>
+    <img src="https://jupyterbook.org/en/stable/_static/logo-wide.svg" alt="1280px-Mandel_zoom_00_mandelbrot_set" width="400"/>
 </p>
 
 > Jupyter Book is an open-source tool for building publication-quality books and documents from computational material.
