@@ -19,6 +19,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Aultural Analytics](#aultural-analytics)
 - [Machine Learning](#machine-learning)
+- [Prolog](#prolog)
 - [Python Packages](#python-packages)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
