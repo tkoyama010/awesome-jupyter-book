@@ -32,6 +32,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Machine Learning in Chemical Engineering](https://github.com/edgarsmdn/MLCE_book) - Hands-on material for a Machine Learning in Chemical Engineering course.
 - [State of Open Source AI Book - 2023 Edition](https://github.com/premAI-io/state-of-open-source-ai) - Clarity in the current fast-paced mess of Open Source innovation.
 
+## Prolog
+
+- [Simply Logical – Intelligent Reasoning by Example (Fully Interactive Online Edition)](https://github.com/simply-logical/simply-logical) - Online, interactive edition of the "Simply Logical" Prolog textbook.
+
 ## Python Packages
 
 - [Python packages](https://github.com/py-pkgs/py-pkgs) - Open source book about making Python packages.
