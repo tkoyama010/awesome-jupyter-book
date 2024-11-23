@@ -27,6 +27,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Introduction to Cultural Analytics & Python](https://github.com/melaniewalsh/Intro-Cultural-Analytics) - Introduction to Cultural Analytics & Python, course website and online textbook powered by Jupyter Book.
 
+## Geospatial
+
+- [h3-py](https://github.com/uber/h3-py) - Python bindings for H3, a hierarchical hexagonal geospatial indexing system.
+
 ## Machine Learning
 
 - [Machine Learning in Chemical Engineering](https://github.com/edgarsmdn/MLCE_book) - Hands-on material for a Machine Learning in Chemical Engineering course.
