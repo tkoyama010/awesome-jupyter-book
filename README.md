@@ -18,6 +18,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Aultural Analytics](#aultural-analytics)
+- [Geospatial](#geospatial)
 - [Machine Learning](#machine-learning)
 - [Python Packages](#python-packages)
 
