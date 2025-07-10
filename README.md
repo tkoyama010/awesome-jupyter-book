@@ -17,6 +17,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Atmospheric Science](#atmospheric-science)
 - [Aultural Analytics](#aultural-analytics)
 - [Climate Science](#climate-science)
 - [Geospatial](#geospatial)
@@ -25,6 +26,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Python Packages](#python-packages)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Atmospheric Science
+
+- [HRRR-AWS Cookbook](https://projectpythia.org/HRRR-AWS-cookbook) - Working with the HRRR dataset on AWS using Zarr and fsspec.
 
 ## Aultural Analytics
 
