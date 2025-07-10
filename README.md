@@ -27,13 +27,13 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Aultural Analytics
-
-- [Introduction to Cultural Analytics & Python](https://github.com/melaniewalsh/Intro-Cultural-Analytics) - Introduction to Cultural Analytics & Python, course website and online textbook powered by Jupyter Book.
-
 ## Atmospheric Science
 
 - [HRRR-AWS Cookbook](https://projectpythia.org/HRRR-AWS-cookbook) - Working with the HRRR dataset on AWS using Zarr and fsspec.
+
+## Aultural Analytics
+
+- [Introduction to Cultural Analytics & Python](https://github.com/melaniewalsh/Intro-Cultural-Analytics) - Introduction to Cultural Analytics & Python, course website and online textbook powered by Jupyter Book.
 
 ## Climate Science
 
