@@ -18,6 +18,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Aultural Analytics](#aultural-analytics)
+- [Data Management](#data-management)
 - [Geospatial](#geospatial)
 - [Machine Learning](#machine-learning)
 - [Prolog](#prolog)
@@ -28,6 +29,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Aultural Analytics
 
 - [Introduction to Cultural Analytics & Python](https://github.com/melaniewalsh/Intro-Cultural-Analytics) - Introduction to Cultural Analytics & Python, course website and online textbook powered by Jupyter Book.
+
+## Data Management
+
+- [Kerchunk Cookbook](https://projectpythia.org/kerchunk-cookbook) - Generating cloud-optimized reference files for legacy datasets using Kerchunk.
 
 ## Geospatial
 
