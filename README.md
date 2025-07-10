@@ -32,6 +32,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Geospatial
 
 - [h3-py](https://github.com/uber/h3-py) - Python bindings for H3, a hierarchical hexagonal geospatial indexing system.
+- [Radar Cookbook](https://projectpythia.org/radar-cookbook) - Working with weather radar data in Python.
 
 ## Machine Learning
 
