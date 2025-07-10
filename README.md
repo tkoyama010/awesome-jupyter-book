@@ -18,6 +18,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Aultural Analytics](#aultural-analytics)
+- [Climate Science](#climate-science)
 - [Geospatial](#geospatial)
 - [Machine Learning](#machine-learning)
 - [Prolog](#prolog)
@@ -29,6 +30,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Introduction to Cultural Analytics & Python](https://github.com/melaniewalsh/Intro-Cultural-Analytics) - Introduction to Cultural Analytics & Python, course website and online textbook powered by Jupyter Book.
 
+## Climate Science
+
+- [CMIP6 Cookbook](https://projectpythia.org/cmip6-cookbook) - Examples of analysis of Google Cloud CMIP6 data using Pangeo tools.
+
 ## Geospatial
 
 - [h3-py](https://github.com/uber/h3-py) - Python bindings for H3, a hierarchical hexagonal geospatial indexing system.
@@ -38,6 +43,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Machine Learning in Chemical Engineering](https://github.com/edgarsmdn/MLCE_book) - Hands-on material for a Machine Learning in Chemical Engineering course.
 - [State of Open Source AI Book - 2023 Edition](https://github.com/premAI-io/state-of-open-source-ai) - Clarity in the current fast-paced mess of Open Source innovation.
+- [xbatcher ML Cookbook](https://projectpythia.org/xbatcher-ML-1-cookbook) - Batch generation for machine learning workflows using xbatcher.
 
 ## Prolog
 
