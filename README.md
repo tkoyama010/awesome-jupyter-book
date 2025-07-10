@@ -42,11 +42,13 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Geospatial
 
 - [h3-py](https://github.com/uber/h3-py) - Python bindings for H3, a hierarchical hexagonal geospatial indexing system.
+- [Radar Cookbook](https://projectpythia.org/radar-cookbook) - Working with weather radar data in Python.
 
 ## Machine Learning
 
 - [Machine Learning in Chemical Engineering](https://github.com/edgarsmdn/MLCE_book) - Hands-on material for a Machine Learning in Chemical Engineering course.
 - [State of Open Source AI Book - 2023 Edition](https://github.com/premAI-io/state-of-open-source-ai) - Clarity in the current fast-paced mess of Open Source innovation.
+- [xbatcher ML Cookbook](https://projectpythia.org/xbatcher-ML-1-cookbook) - Batch generation for machine learning workflows using xbatcher.
 
 ## Prolog
 
