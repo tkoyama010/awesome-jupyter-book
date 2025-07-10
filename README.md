@@ -1,9 +1,9 @@
-# Awesome Jupyter Book [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Jupyter Book [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/awesome-jupyter-book?color=ee8449)
 
 <p align="center">
-    <img src="https://jupyterbook.org/en/stable/_static/logo-wide.svg" alt="1280px-Mandel_zoom_00_mandelbrot_set" width="400"/>
+    <img src="https://raw.githubusercontent.com/executablebooks/jupyter-book/master/docs/images/logo-wide.svg" alt="Jupyter Book Logo" width="400"/>
 </p>
 
 > Jupyter Book is an open-source tool for building publication-quality books and documents from computational material.
