@@ -41,6 +41,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Machine Learning
 
+- [Landsat ML Cookbook](https://projectpythia.org/landsat-ml-cookbook) - Machine learning workflows with Landsat satellite imagery.
 - [Machine Learning in Chemical Engineering](https://github.com/edgarsmdn/MLCE_book) - Hands-on material for a Machine Learning in Chemical Engineering course.
 - [State of Open Source AI Book - 2023 Edition](https://github.com/premAI-io/state-of-open-source-ai) - Clarity in the current fast-paced mess of Open Source innovation.
 - [xbatcher ML Cookbook](https://projectpythia.org/xbatcher-ML-1-cookbook) - Batch generation for machine learning workflows using xbatcher.
