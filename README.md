@@ -41,6 +41,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Geospatial
 
+- [FEniCS-SZ](https://github.com/cianwilson/fenics-sz) - Interactive Jupyter Book for modeling subduction zones using FEniCSx with kinematic-slab thermal models.
 - [h3-py](https://github.com/uber/h3-py) - Python bindings for H3, a hierarchical hexagonal geospatial indexing system.
 - [Radar Cookbook](https://projectpythia.org/radar-cookbook) - Working with weather radar data in Python.
 
