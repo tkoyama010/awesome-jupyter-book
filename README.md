@@ -20,6 +20,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Atmospheric Science](#atmospheric-science)
 - [Aultural Analytics](#aultural-analytics)
 - [Climate Science](#climate-science)
+- [Data Management](#data-management)
 - [Geospatial](#geospatial)
 - [Machine Learning](#machine-learning)
 - [Prolog](#prolog)
@@ -38,6 +39,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Climate Science
 
 - [CMIP6 Cookbook](https://projectpythia.org/cmip6-cookbook) - Examples of analysis of Google Cloud CMIP6 data using Pangeo tools.
+
+## Data Management
+
+- [Kerchunk Cookbook](https://projectpythia.org/kerchunk-cookbook) - Generating cloud-optimized reference files for legacy datasets using Kerchunk.
 
 ## Geospatial
 
